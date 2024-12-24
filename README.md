@@ -1,6 +1,4 @@
-Here’s an updated version of the `README.md` file tailored for your project, assuming the repository consists only of a single Jupyter Notebook file (`TransformerSentimentAnalysis.ipynb`):
 
-```markdown
 # Twitter Sentiment Analysis with Transformer Models
 
 This repository contains a Jupyter Notebook for performing sentiment analysis on a Twitter dataset using various transformer models, including BERT, RoBERTa, DistilBERT, ALBERT, and XLNet. The notebook provides a complete pipeline for loading the data, preprocessing it, training the models, and evaluating their performance.
